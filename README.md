@@ -1,2 +1,1 @@
-# mycinehub
-trail-2
+# cine
