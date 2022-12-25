@@ -16,7 +16,7 @@ Below are the step by step instructions to pull the repository and run it in you
   1. Clone the repository into your local drive
   
   ``` 
-  git clone https://github.com/sumedhaimp/mycinehub.git 
+  git clone https://github.com/sumedhaimp/mycinehub.git
   ```
   
   2. Open the folder in your IDE or Terminal then move to backend folder
