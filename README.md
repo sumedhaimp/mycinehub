@@ -67,3 +67,5 @@ Below are the step by step instructions to pull the repository and run it in you
 
 # Demo Video
 https://user-images.githubusercontent.com/119802849/206112904-cda3c526-1539-4d30-8015-0e0aeffc978a.mp4
+# Walkthrough
+https://drive.google.com/file/d/1Uojdb5VKWsqlYNK8SdOmq1-kmpWrcOlc/view
