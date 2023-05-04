@@ -8,8 +8,9 @@ This is a mern based project which is basically like netflix in which payment is
 + Nodejs
 - Mongodb
 + Express
-- Etherjs
-+ Metamask wallet
+-google FireBase
++ Etherjs
+- Metamask wallet
 
 # Installation
 Below are the step by step instructions to pull the repository and run it in your system locally:
