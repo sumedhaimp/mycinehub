@@ -8,7 +8,7 @@ This is a mern based project which is basically like netflix in which payment is
 + Nodejs
 - Mongodb
 + Express
--google FireBase
+- google FireBase
 + Etherjs
 - Metamask wallet
 
